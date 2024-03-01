@@ -1,4 +1,4 @@
 TODO Task 1
 
 Write the command to import products.csv into Mongo in this file
-mongoimport --db=local --collection=products --file=C:\Users\YL\Desktop\template\data\products.csv --type=csv --headerline
+mongoimport --db=local --collection=products --file=data\products.csv --type=csv --headerline
